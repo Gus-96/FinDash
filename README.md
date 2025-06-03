@@ -12,7 +12,7 @@ Este projeto é um dashboard em tempo real que monitora cotações de moedas (D�
 - Cotações em tempo real (Dólar, Euro, IBOVESPA)
 - Atualização automática a cada 1 minuto
 - Histórico de variação com gráficos interativos (To Do)
-- Responsivo para mobile e desktop
+- Responsivo para mobile e desktop (Done)
 
 📌 Roadmap
 - Integração com APIs financeiras (Done)
