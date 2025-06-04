@@ -2,7 +2,7 @@
 
 Dashboard de Cotações Financeiras
 
-Este projeto é um dashboard em tempo real que monitora cotações de moedas (Dólar e Euro) e o índice IBOVESPA, desenvolvido com React para o frontend e Node.js para o backend. O sistema consome dados diretamente da AwesomeAPI para cotações de moedas e do Yahoo Finance para o IBOVESPA, utilizando um backend Node.js como proxy para evitar problemas de CORS.
+Este projeto é um dashboard em tempo real que monitora cotações do Dólar comercial, Euro e o índice IBOVESPA, desenvolvido com React para o frontend e Node.js para o backend. O sistema consome dados diretamente da AwesomeAPI para cotações de moedas e do Yahoo Finance para o IBOVESPA, utilizando um backend Node.js como proxy para evitar problemas de CORS.
 
 🛠 Tecnologias Utilizadas:
 - Frontend: React 18 com Tailwind CSS para estilização e Chart.js para gráficos
